@@ -1,5 +1,5 @@
 # WeatherScope 
-Final Project - This is my final year project at the University of Plymouth.
+Final Project - This is my final year project at the University.
 
 This web-based application aims to give users an easy and convenient way to check the current weather, while also allowing them to visually see that data onto a user-friendly map. Weather maps include visualising Precipitation, Temperature, Cloud data, Wind speed & direction data etc. This web-app isn't just catered towards the average user, however. The application also displays more advanced data topics as well that the user can choose to enable. The web application also encompasses a more traditional layout for weather forecasting, which includes displaying current, hourly and weekly data for anywhere on the planet.
 
